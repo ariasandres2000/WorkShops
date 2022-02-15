@@ -18,6 +18,6 @@ function saveUser($user){
  *  Gets the provinces from the database
  */
 function getProvinces() {
-  //select * from provinces;
+  //select * from provinces; Hola
   return [55 => 'Alajuela', 56 => 'San Jose', 57 => 'Cartago', 80 => 'Heredia', 90 => 'Limon', 100 => 'Puntarenas', 200 => 'Guanacaste'];
 }
