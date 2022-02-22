@@ -15,7 +15,7 @@
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 
-  <title>Document</title>
+  <title>Documentt</title>
 </head>
 <body>
 <div class="container">
